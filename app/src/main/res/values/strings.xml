@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">TraveLog</string>
+    <string name="locationProblem">There was a problem with getting your location. Please make
+        your location services are turned on</string>
+    <string name="okString">OK</string>
+
 </resources>
